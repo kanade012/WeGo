@@ -5,8 +5,6 @@ import 'package:v1/config/palette.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
-import 'First_Select_Page.dart';
-
 class LoginSignupScreen extends StatefulWidget {
   const LoginSignupScreen({super.key});
 
