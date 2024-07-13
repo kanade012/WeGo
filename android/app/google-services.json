@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345088014863",
+    "project_id": "gachon-we-go",
+    "storage_bucket": "gachon-we-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345088014863:android:1c2feadfa750339250417a",
+        "android_client_info": {
+          "package_name": "com.example.v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNKa_CDv4-XXmljV6BiiJ9x1534M3xe7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
